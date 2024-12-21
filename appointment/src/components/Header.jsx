@@ -10,7 +10,7 @@ const Header = () => {
 
             <div className='' >
                 <img className='w-28' src={assets.group_profiles} alt="" />
-                <p className='mt-4 text-lg  '>Simply browse through our extensive list of trusted doctors, <br /> schedule your appointment hassle-free.</p>
+                <p className='mt-4 text-lg  '>Simply browse through our extensive list of trusted doctors , <br /> schedule your appointment hassle-free.</p>
             </div>
 
             <a href="#speciality" className='flex  items-center gap-2 bg-blue-400 rounded-xl p-4 mt-6 text-lg'>Book Appointment <img className='w-4' src={assets.arrow_icon} alt="" /></a>
